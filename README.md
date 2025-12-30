@@ -1,3 +1,4 @@
 # qldpc-fpga
 Quantum LDPC decoder
-如何修改代码并上传？
+
+解决LDPC解码问题
